@@ -1,3 +1,0 @@
-sqr_ex1: sqr_ex1 sqr_ex1.c my_sqr_func.h my_sqr_func.c 
-	gcc -Wall -o sqr_ex1 sqr_ex1.c my_sqr_func.c 
-
