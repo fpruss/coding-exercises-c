@@ -1,3 +1,0 @@
-int sqr_heron_iterative(double number);
-int sqr_heron_recursive(double number);
-int sqr_heron_rec(double number, double result, double last_result);
